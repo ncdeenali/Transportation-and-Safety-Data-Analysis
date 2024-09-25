@@ -2,7 +2,7 @@
 
 This repository focuses on the analysis and modeling of public transportation data from various agencies. The dataset includes detailed metrics such as transportation modes, service types, population coverage, and safety-related incidents like pedestrian and vehicle injuries.
 
-# The project covers the following stages:
+The project covers the following stages:
 
   - Data Cleaning and Preprocessing: Preparing the dataset for analysis
 
